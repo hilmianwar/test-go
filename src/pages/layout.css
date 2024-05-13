@@ -1,0 +1,6 @@
+@layer mantine, mantine-datatable;
+
+body {
+  background-color: #343534; /* Atur latar belakang halaman menjadi putih */
+  color: white; /* Atur warna teks menjadi hitam */
+}
